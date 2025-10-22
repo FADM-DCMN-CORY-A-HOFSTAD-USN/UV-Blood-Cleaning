@@ -141,3 +141,81 @@ General troubleshooting principles can also help address potential issues.
 [19] [](https://onlinelibrary.wiley.com/doi/full/10.1111/trf.17143#:~:text=Such%20oversight%20is%20crucial%20not%20only%20for,made%20as%20needed%20to%20ensure%20patient%20safety.)<https://onlinelibrary.wiley.com/doi/full/10.1111/trf.17143>
 
 [20] [](https://www.fafnir.com/de/sites/fafnir.com.de/files/2021-11/TeDo_ME-6_en_2020-02.pdf#:~:text=Do%20not%20change%20or%20modify%20the%20testing,knowledge%20must%20be%20acquired%20by%20regular%20training.)<https://www.fafnir.com/de/sites/fafnir.com.de/files/2021-11/TeDo_ME-6_en_2020-02.pdf>
+
+### **References**
+
+American Society for Apheresis (ASFA). (2015, May 8). *Troubleshooting Apheresis Systems: Common Problems and Solutions*. <https://cdn.ymaws.com/www.apheresis.org/resource/collection/47C2CDF3-E008-4116-9FBC-BC289E1DA4BB/15.05.08-0945-LONESTARA-Burgstaler.pdf>
+
+American Society for Apheresis (ASFA). (2016, May 6). *Apheresis Best Practices: Optical Sensor Management*. <https://cdn.ymaws.com/www.apheresis.org/resource/collection/C24BF4FF-2B4D-48DB-966C-DA99C94A9B88/16.05.06_-_1445_-_AMBASSADOR_BALLROOM_-_PALOMINO_V2.pdf>
+
+B. Braun. (2024). *OMNI Troubleshooting Guide*. <https://www.bbraun.co.uk/content/dam/b-braun/en_gb/website-6/documents/products/therapies/extracorporeal-blood-treatment-therapies/omni/OMNI-troubleshooting-guide-2024.pdf>
+
+Cerus Corporation. (2016, May 21). *INTERCEPT Blood System for Plasma*. Intercept-Canada. <https://intercept-canada.com/wp-content/uploads/sites/3/2021/02/INTERCEPT-CANADA-PACKAGE_INSERT-PLASMA_21may16.pdf>
+
+Cleveland Clinic. (n.d.). *Apheresis*. Retrieved October 21, 2025, from <https://my.clevelandclinic.org/health/procedures/apheresis>
+
+Clinical Lab. (n.d.). *Advances in pathogen reduction technologies*. Retrieved October 21, 2025, from <https://www.clinicallab.com/advances-in-pathogen-reduction-technologies-to-improve-global-transfusion-safety-26534>
+
+DentalCare.com. (n.d.). *Miscellaneous Errors in Apheresis*. Retrieved October 21, 2025, from <https://www.dentalcare.com/en-us/ce-courses/ce559/miscellaneous-errors>
+
+EPRA International Journal of Multidisciplinary Research. (n.d.). *A Comprehensive Review of Photopheresis: Mechanism, Applications, and Future Perspectives*. Retrieved October 21, 2025, from <https://eprajournals.com/IJMR/article/7311/download>
+
+Fafnir. (2020). *TeDo_ME-6_en_2020-02*. <https://www.fafnir.com/de/sites/fafnir.com.de/files/2021-11/TeDo_ME-6_en_2020-02.pdf>
+
+Hamblin, M. R. (2016). Ultraviolet blood irradiation: Is it time to remember "the cure that time forgot"? *Photomedicine and Laser Surgery, 34*(3), 89--95. <https://pmc.ncbi.nlm.nih.gov/articles/PMC4783265/>
+
+IVElements. (n.d.). *Benefits of UVBI*. Retrieved October 21, 2025, from <https://ivelements.net/blog/benefits-of-uvbi>
+
+K2 Medical. (n.d.). *LipiGuard SB1 Flyer*. Retrieved October 21, 2025, from <https://k2medical.co.za/wp-content/uploads/2017/08/LipiGuard-SB1-Flyer.pdf>
+
+Marschner, S., & Goodrich, R. (2017). Improving the safety of whole blood-derived transfusion products with a riboflavin-based pathogen reduction technology. *Transfusion Medicine and Hemotherapy, 44*(4), 224--233. <https://pmc.ncbi.nlm.nih.gov/articles/PMC5490732/>
+
+Medline. (n.d.). *SQ40 Microaggregate Blood Transfusion Filter*. Retrieved October 21, 2025, from <https://www.medline.com/media/catalog/Docs/MKT/SQ40%20FILTER.PDF>
+
+Meise. (n.d.). *PURE SELECT® Cascade filter FractioPlas®19*. Retrieved October 21, 2025, from <https://meise.com/en/products/filter2/cascade-filter>
+
+MSA. (n.d.). *Safety Guidelines for Medical Equipment*. Retrieved October 21, 2025, from <https://msa.sm.ee/ctrl/et/Fail/laadi_alla/57104>
+
+National Center for Biotechnology Information (NCBI). (n.d.). *COVID-19 EUA: Diagnostic and Screening Tests*. (U.S. National Library of Medicine). Retrieved October 21, 2025, from <https://www.ncbi.nlm.nih.gov/books/NBK572322/bin/fdacovideuas_136838.pdf>
+
+National Center for Biotechnology Information (NCBI). (n.d.). *Extracorporeal photopheresis for cutaneous T-cell lymphoma*. (U.S. National Library of Medicine). Retrieved October 21, 2025, from <https://pmc.ncbi.nlm.nih.gov/articles/PMC2787192/>
+
+National Center for Biotechnology Information (NCBI). (n.d.). *Impact of COVID-19 on blood transfusion services*. (U.S. National Library of Medicine). Retrieved October 21, 2025, from <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10238822/>
+
+Nutrition & Metabolism. (n.d.). *Riboflavin as a natural compound*. Retrieved October 21, 2025, from <https://nutritionandmetabolism.biomedcentral.com/articles/10.1186/s12986-023-00764-x>
+
+PubMed. (n.d.). *Optical Detection in Apheresis*. (U.S. National Library of Medicine). Retrieved October 21, 2025, from <https://pubmed.ncbi.nlm.nih.gov/27487161/>
+
+ResearchGate. (n.d.). *Pathogen Reduction Technology Treatment of Platelets, Plasma and Whole Blood Using Riboflavin and UV Light*. Retrieved October 21, 2025, from <https://www.researchgate.net/publication/51511636_Pathogen_Reduction_Technology_Treatment_of_Platelets_Plasma_and_Whole_Blood_Using_Riboflavin_and_UV_Light>
+
+ScienceDirect. (n.d.). *Amotosalen mechanism of action*. Retrieved October 21, 2025, from <https://www.sciencedirect.com/topics/medicine-and-dentistry/amotosalen>
+
+ScienceDirect. (n.d.). *Photopheresis*. Retrieved October 21, 2025, from <https://www.sciencedirect.com/topics/nursing-and-health-professions/photopheresis>
+
+ScienceDirect. (2014). *Riboflavin's role in pathogen reduction*. <https://www.sciencedirect.com/science/article/pii/S0268960X14000575>
+
+ScienceDirect. (2023). *Optical sensor interference in apheresis*. <https://www.sciencedirect.com/science/article/abs/pii/S0145212623006525>
+
+ScienceDirect. (2025). *Advanced Apheresis System Design*. <https://www.sciencedirect.com/science/article/pii/S0956566325003227>
+
+startrinity3.com. (n.d.). *Apheresis System Essentials Guide*. <http://startrinity3.com/mssn/04/Apheresis%20System%20Essentials%20Guide.pdf>
+
+Sudabelt. (n.d.). *The Game-Changing Mirasol Pathogen Reduction Technology (PRT) in Blood Safety*. Retrieved October 21, 2025, from <https://www.sudabelt.com/blog/the-game-changing-mirasol-pathogen-reduction-technology-prt-in-blood-safety>
+
+Terumo BCT. (n.d.-a). *Mirasol Pathogen Reduction Technology System*. Retrieved October 21, 2025, from <https://www.terumobct.com/en/gl/products-services/global-blood-solutions/global-blood-solutions-products/mirasol.html>
+
+Terumo BCT. (n.d.-b). *Mirasol PRT System Simplicity*. Retrieved October 21, 2025, from <https://www.terumobct.com/content/dam/terumo-bct/local-documents/veeva-unlinked/products---services/BC-MIRA-00213-Mirasol-Simplicity.pdf>
+
+U.S. Food and Drug Administration. (2016, March 10). *Rx Only March 10, 2016 INTENDED USE DEVICE DESCRIPTION [INTERCEPT Blood System]*. <https://www.fda.gov/media/90089/download>
+
+U.S. Food and Drug Administration. (2021, November). *Manufacture of Blood Components Using a Pathogen Reduction Device in Blood Establishments: Questions and Answers; Guidance for Industry*. <https://www.fda.gov/media/153786/download>
+
+Upstate Cancer Center. (n.d.). *Photopheresis*. Retrieved October 21, 2025, from <https://www.upstate.edu/cancer/cancer-care/treatment-options/apheresis/photopheresis.php>
+
+UT Southwestern Medical Center. (n.d.). *Photopheresis*. Retrieved October 21, 2025, from <https://utswmed.org/conditions-treatments/photopheresis/>
+
+Vesilind, P. A., et al. (2011). Pathogen reduction technology: amotosalen and ultraviolet A light. *Transfusion Medicine and Hemotherapy, 38*(3), 161--171. <https://pmc.ncbi.nlm.nih.gov/articles/PMC3132977/>
+
+Wiley Online Library. (n.d.). *Regulatory Compliance in Transfusion Medicine*. Retrieved October 21, 2025, from <https://onlinelibrary.wiley.com/doi/full/10.1111/trf.17143>
+
+YouTube. (n.d.). *Mirasol PRT System*. Retrieved October 21, 2025, from <https://www.youtube.com/watch?v=jEyHvutMfx8>
